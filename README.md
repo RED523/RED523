@@ -8,6 +8,6 @@ You can also read most of my articles and blog on [CSDN](https://blog.csdn.net/w
 
 > If you also want to write this document together, please contact me :)
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,sass,tailwind,ts,react,vue,nextjs)](https://github.com/RED523)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,tailwind,ts,sass,react,vue,nextjs)](https://github.com/RED523)
 
 ![https://github.com/RED523/RED523/blob/output/github-contribution-grid-snake.svg](https://github.com/RED523/RED523/blob/output/github-contribution-grid-snake.svg)
