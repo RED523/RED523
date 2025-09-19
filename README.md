@@ -6,6 +6,6 @@ You can find me on [Github](https://github.com/RED523), [抖音](https://github.
 
 > If you also want to write this document together, please contact me :)
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,sass,ts,react,vue.js,nextjs)]
+[![My Skills](https://skillicons.dev/icons?i=nodejs,sass,ts,react,vue.js,nextjs)]([https://me.tuntun.site/](https://github.com/RED523))
 
 ![https://github.com/RED523/RED523/blob/output/github-contribution-grid-snake.svg](https://github.com/RED523/RED523/blob/output/github-contribution-grid-snake.svg)
