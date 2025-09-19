@@ -4,6 +4,8 @@ a web front-end developer.
 
 You can find me on [Github](https://github.com/RED523), [抖音](https://github.com/RED523), and you can mail me at [coderzzm@foxmail.com](mailto:coderzzm@foxmail.com).
 
+You can also read most of my articles and blog on [CSDN](https://blog.csdn.net/weixin_46661464?spm=1000.2115.3001.5343), which cover the basics of front-end and common front-end interview questions.
+
 > If you also want to write this document together, please contact me :)
 
 [![My Skills](https://skillicons.dev/icons?i=nodejs,sass,ts,react,vue.js,nextjs)]([https://me.tuntun.site/](https://github.com/RED523))
