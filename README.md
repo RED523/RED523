@@ -2,7 +2,7 @@
 
 a web front-end developer.
 
-You can find me on [Github](https://github.com/RED523), [TikTok](https://github.com/RED523), and you can mail me at [coderzzm@foxmail.com](mailto:coderzzm@foxmail.com).
+You can find me on [Github](https://github.com/RED523), [TikTok](https://v.douyin.com/CEQKmmqGl8A/), and you can mail me at [coderzzm@foxmail.com](mailto:coderzzm@foxmail.com).
 
 You can also read most of my articles and blog on [CSDN](https://blog.csdn.net/weixin_46661464?spm=1000.2115.3001.5343), which cover the basics of front-end and common front-end interview questions.
 
