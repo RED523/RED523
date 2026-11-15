@@ -1,4 +1,3 @@
-
 <div align="center">
 
 [简体中文](./README.md) | [English](./README_EN.md)
@@ -25,15 +24,12 @@
 - 🛠️ 对工程化、开发者工具与开源项目感兴趣
 - 💬 欢迎交流技术、开源项目或合作机会
 
-## 技术栈
+## 个人产品
 
-### 编程语言
-
-[![编程语言](https://skillicons.dev/icons?i=js,ts,html,css)](https://skillicons.dev)
-
-### 框架与工具
-
-[![框架与工具](https://skillicons.dev/icons?i=react,vue,nextjs,nodejs,tailwind,sass,vite,git)](https://skillicons.dev)
+| 产品 | 一句话介绍 |
+| --- | --- |
+| [DSticky 便签](https://dsticky.top/) | 专为 macOS 打造的桌面便签与提醒工具，支持跨 Space 跟随、全屏置顶、到点提醒与本地保存。 |
+| [幕前 Miqen](https://dsticky.top/miqen/) | 一键让 Mac 进入会议准备状态：隐藏桌面图标、关闭通知、静音、最小化窗口并更换壁纸。 |
 
 ## 代表项目
 
@@ -43,6 +39,16 @@
 | [frontend-cdn](https://github.com/RED523/frontend-cdn) | 基于 jsDelivr 的免费静态资源 CDN | JavaScript |
 | [ming-blog](https://github.com/RED523/ming-blog) | 个人博客项目 | TypeScript |
 | [minimal-loop-agent](https://github.com/RED523/minimal-loop-agent) | 简洁的 Python Agent 框架 | Python |
+
+## 技术栈
+
+### 编程语言
+
+[![编程语言](https://skillicons.dev/icons?i=js,ts,html,css)](https://skillicons.dev)
+
+### 框架与工具
+
+[![框架与工具](https://skillicons.dev/icons?i=react,vue,nextjs,nodejs,tailwind,sass,vite,git)](https://skillicons.dev)
 
 ## 贡献记录
 
